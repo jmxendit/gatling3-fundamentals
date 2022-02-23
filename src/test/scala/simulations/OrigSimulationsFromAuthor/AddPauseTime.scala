@@ -1,4 +1,4 @@
-package simulations
+package simulations.OrigSimulationsFromAuthor
 
 import io.gatling.core.Predef._
 import io.gatling.http.Predef._
